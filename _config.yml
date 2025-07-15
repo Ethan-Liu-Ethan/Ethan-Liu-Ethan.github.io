@@ -22,7 +22,7 @@ repository               : "Ethan-Liu-Ethan/Ethan-Liu-Ethan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Shijie Liu.png"
+  avatar           : "Shijie Liu.jpg"
   name             : "Shijie Liu"
   pronouns         : "He/Him"  
   bio              : "PhD researcher in computational linguistics, computational terminology (ATE), and translation technology"
