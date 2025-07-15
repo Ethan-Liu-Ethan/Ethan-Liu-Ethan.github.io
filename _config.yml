@@ -13,7 +13,7 @@ title                    : "Shijie Liu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Shijie Liu"
 description              : &description "PhD researcher in computational linguistics, computational terminology (ATE), and translation technology"
-url                      : https://shijieliu.tech # https://Ethan-Liu-Ethan.github.io
+url                      : https://Ethan-Liu-Ethan.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ethan-Liu-Ethan/Ethan-Liu-Ethan.github.io"
 
