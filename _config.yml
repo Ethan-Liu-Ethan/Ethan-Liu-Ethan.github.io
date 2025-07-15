@@ -13,7 +13,7 @@ title                    : "Shijie Liu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Shijie Liu"
 description              : &description "PhD researcher in computational linguistics, computational terminology (ATE), and translation technology"
-url                      : https://Ethan-Liu-Ethan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://Ethan-Liu-Ethan.github.io # https://shijieliu.tech
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ethan-Liu-Ethan/Ethan-Liu-Ethan.github.io"
 
