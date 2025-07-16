@@ -36,7 +36,7 @@ You can find my CV here: [Shijie's CV](../assets/Shijie_Liu_CV.pdf)
 </p>
 
 Feel free to contact me via:
-[Email](mailto:kongdelu2009@hotmail.com) / [GitHub](https://github.com/danielkong1996) / [WeChat](/assets/WechatImage.jpg)
+[Email](henryliushijie@163.com) / [GitHub](https://github.com/Ethan-Liu-Ethan) / [bilibili](https://space.bilibili.com/30605394?spm_id_from=333.40164.0.0)
 
 Funny stuff
 ======
