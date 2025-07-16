@@ -5,9 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<div class="wordwrap">
+  {% if site.author.googlescholar %}
+    <p>You can also find my articles on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</p>
+  {% endif %}
+  {% if site.author.researchgate %}
+    <p>You can also find my articles on <a href="{{ site.author.researchgate }}">my ResearchGate profile</a>.</p>
+  {% endif %}
+  {% if site.author.orcid %}
+    <p>You can also find my articles on <a href="{{ site.author.orcid }}">my ORCID profile</a>.</p>
+  {% endif %}
+  <p>They are actually the same, but you can choose your favorite platform. ;-)</p>
+</div>
+
 
 {% include base_path %}
 
@@ -31,6 +41,4 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
-
 

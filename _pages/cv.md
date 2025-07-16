@@ -11,24 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Tongji University, Shanghai, China, 2021 - 2026 (expected)
+  - Supervisor Prof. Dr. May Li.
+  - Research interest: Machine translation, ML-enhanced translation studies
 
-Work experience
+* Visiting Ph.D stay in Ghent University, Belgium, 2024 - 2025 
+  - Supervisor Prof. Dr. Lieve Macken
+
+* M.S. in Shanghai International Studies University, Shanghai, China, 2018 - 2021
+  - Supervisor Prof. Dr. Jidong Zhang
+  - Research interest: Corpus-based linguistic and translation studies
+
+* B.S. in Shandong University of Finance and Economics, 2014 - 2018
+  - Research interest: Classic British literary works
+
+
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
-  * GitHub University
+  * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
 * Fall 2015: Research Assistant
-  * GitHub University
+  * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
 * Summer 2015: Research Assistant
-  * GitHub University
+  * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
@@ -39,7 +50,7 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -53,7 +64,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +72,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
