@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Delu Daniel KONG"
-exerpt: "About Delu Daniel KONG"
+title: "About Shijie Liu"
+exerpt: "About Shijie Liu"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 
-<h2>孔德璐 (Kǒng Dé Lù)</h2>
+
+<h2>刘世界 (Liú Shì Jiè)</h2>
 <button onclick="playAudio()">🔊 Listen</button>
 <audio id="audio" src="../assets/NameAudio.mp3"></audio>
 <script>
@@ -18,9 +19,11 @@ redirect_from:
   }
 </script>
 
-I am Delu (Daniel) Kong , an exchange Ph.D. student now at the LT3 Language and Translation Technology Team, Ghent University, Belgium. My research interests include machine translation, post-editing, corpus-based translation studies, and digital humanities.
+I am Shijie Liu, a computational linguistic researcher specializing in data-driven approaches to language processing and modeling. My research adopts a computational perspective to examine language phenomena, utilizing data-driven methods and machine learning techniques to address linguistic challenges in specialized domains.
 
-I am now pursuing my doctoral studies at the School of Foreign Studies, Tongji University, China, under the supervision of [Prof. Mei LI](https://www.researchgate.net/profile/May-Li-12). And I earned my master's degree from the School of English Studies, Shanghai International Studies University. During my academic journey, I received multiple awards, including provincial-level Outstanding Graduate recognitions and fellowship awards for three consecutive years.
+Currently, I am affiliated with both the Maritime Language Data Research Team at Shanghai Maritime University under Prof. Yan Zhang's supervision, and the Language and Translation Technology Team (LT³) at Ghent University, collaborating with Prof. Véronique Hoste and Prof. Els Lefever. Through these positions, I lead the Top-notch Innovative Talents Cultivation Program on automatic terminology extraction using deep learning approaches, and contribute to the China National Social Science Fund project investigating maritime language standardization through computational methods.
+
+My core research interests encompass computational linguistics with emphasis on data-driven language modeling and analysis, computational terminology focusing on multilingual automatic term extraction, and translation technology application. My recent work extensively explores large language models for terminology extraction, employing zero-shot and few-shot learning paradigms alongside fine-tuning methodologies to enhance extraction performance. Additionally, I have constructed large-scale annotated datasets for maritime safety terminology, developing practical solutions for cross-lingual terminology extraction and domain-specific language applications.
 
 You can find my CV here: [Delu's CV](../assets/Daniel KONG-CV.pdf)
 
