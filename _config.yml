@@ -299,8 +299,6 @@ permalink: /:categories/:title/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Etc/UTC
 
-# rebuild
-
 
 # Plugins
 plugins:
