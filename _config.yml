@@ -122,6 +122,17 @@ atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
+# Site Settings
+teaser                   : 
+breadcrumbs              : false
+header_pages:
+  - news.md
+  - publications.md
+  - talks.md
+  - grants.md
+  - skills.md
+  - cv.md
+words_per_minute         : 160
 
 # SEO Related
 google_site_verification :
